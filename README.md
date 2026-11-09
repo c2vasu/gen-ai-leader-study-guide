@@ -4,6 +4,13 @@ This repo has **detailed notes** for each exam section and subsection, based on 
 
 > A **Generative AI Leader** understands how gen AI can transform a business, knows Google Cloud's gen AI offerings at a business level, and guides organizations toward innovative and **responsible** AI adoption. The exam is aimed at business-focused roles; it does **not** require hands-on technical experience.
 
+## 🏅 My Certification
+
+<a href="https://www.credly.com/badges/e5ffe0d3-d25d-4ce0-9d0b-0fcadcef790a/public_url">
+  <img src="sources/GenAI.png" alt="Google Cloud Generative AI Leader badge" width="850">
+</a>
+
+I passed the **Google Cloud Generative AI Leader** exam. [Verify on Credly](https://www.credly.com/badges/e5ffe0d3-d25d-4ce0-9d0b-0fcadcef790a/public_url)
 ---
 
 ## Exam at a Glance
